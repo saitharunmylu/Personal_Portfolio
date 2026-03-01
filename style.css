@@ -1,8 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #0a192f;   /* Dark background */
+  color: #eaeaea;
+  font-family: 'Poppins', sans-serif;
+}
+
 flex-wrap: wrap;
 }
 
 .navbar ul li {
   margin: 0 clamp(8px, 1vw, 15px);
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 8%;
+  background-color: #0a192f;
 }
 
 .navbar ul li a {
