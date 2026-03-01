@@ -12,12 +12,14 @@ flex-wrap: wrap;
 .navbar ul li {
   margin: 0 clamp(8px, 1vw, 15px);
 }
+background-color: #0a192f;
+
 .navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 20px 8%;
-  background-color: #0a192f;
+  background: linear-gradient(90deg, #141e30, #243b55);
 }
 
 .navbar ul li a {
@@ -284,12 +286,11 @@ flex-wrap: wrap;
 
 /* Footer */
 .site-footer {
-  background-color: #0a192f;
+  background: linear-gradient(90deg, #1f2937, #111827);
   color: #eaeaea;
   padding: clamp(18px, 3vw, 30px) 5%;
   text-align: center;
   margin: 50px auto;
-  font-size: clamp(0.9rem, 1vw, 1rem);
   width: 90%;
   max-width: 1400px;
   border-radius: 12px;
