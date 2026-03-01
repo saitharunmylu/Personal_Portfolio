@@ -132,12 +132,6 @@ flex-wrap: wrap;
   text-align:left;
 }
 
-.glass-section {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 /* Paragraphs inside Project Column */
 
 /* Responsive adjustments */
@@ -238,7 +232,6 @@ flex-wrap: wrap;
   margin-left: auto;
   margin-right: auto;       /* Center horizontally */
 }
-
 
 /* Footer */
 .site-footer {
