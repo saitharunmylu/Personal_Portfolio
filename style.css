@@ -136,7 +136,6 @@ flex-wrap: wrap;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: clamp(40px, 6vw, 80px) 10%;
 }
 
 /* Paragraphs inside Project Column */
