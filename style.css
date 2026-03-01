@@ -223,10 +223,9 @@ flex-wrap: wrap;
   background: rgba(255, 255, 255, 0.08);
   backdrop-filter: blur(18px);
   border-radius: 20px;
-  padding: clamp(30px, 5vw, 60px);
   margin: 30px 0;
   width: 90%;               /* Increased from 80% → more space on laptops */
-  max-width: 1400px;        /* Allow more width on larger screens */
+  max-width: 3000px;        /* Allow more width on larger screens */
   box-shadow: 0 12px 25px rgba(0, 0, 0, 0.3);
   animation: fadeIn 1.5s ease;
   margin-left: auto;
