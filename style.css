@@ -199,14 +199,11 @@
   margin-bottom: clamp(12px, 1vw, 18px);
   padding-left: clamp(16px, 2vw, 20px);
 }
-
 .experience-box li {
-  font-size: clamp(0.95rem, 1.2vw, 1.05rem);
-  margin-bottom: clamp(6px, 0.8vw, 12px);
-}(0.95rem, 1.2vw, 1.1rem);
-  color: #cfd8dc;
-  line-height: 1.5;
-  margin-bottom: clamp(10px, 1vw, 15px);
+  font-size: clamp(0.95rem, 1.2vw, 1.05rem);
+  margin-bottom: clamp(6px, 0.8vw, 12px);
+  color: #cfd8dc;
+  line-height: 1.5;
 }
 
 .experience-box ul,
